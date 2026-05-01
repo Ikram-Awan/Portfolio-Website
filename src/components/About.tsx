@@ -9,6 +9,7 @@ const About = () => {
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
           dolores numquam iusto Ratione earum ducimus autem id iure pariatur
           dolorum quae maiores.
+          ok
         </p>
       </div>
     </div>
